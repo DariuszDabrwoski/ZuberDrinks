@@ -1,0 +1,32 @@
+Klient: 
+•	Zamawianie napojów 
+•	Przegląd oferty 
+•	Wystawianie opinii
+•	Ocena dostawy 
+•	Śledzenie zamówienia 
+•	Wybór metody płatności 
+•	Płatność kartą 
+•	Płatność blik
+•	Rejestracja 
+•	Koszyk
+•	Dodawanie adresu dostawy
+•	Zakładka ulubione i ostatnie zamówienia 
+•	Logowanie 
+•	System referencyjny 
+
+	
+Dostawca :	
+•	Przegląd ofert dostaw 
+•	Integracja z Google maps i wyszukiwanie optymalnej trasy 
+•	Komunikacja z klientem 
+•	Informacja o statusie dostawy 
+•	Logowanie 
+
+System:
+•	Aktualizacja oferty 
+•	Aktualizacja magazynu 
+•	Przyjmowanie zamówień 
+•	Dodawanie dostawców 
+•	Przydzielanie zamówień do dostawców
+
+
